@@ -2,9 +2,9 @@
 
 This course is taught by Computer Vision expert from University of Edinberg. The course is implementation oriented and less of theorey. If you do not care about the theorey and are looking for a quick implememntation guide on popular OpenCV algorithms, this is the course to take.
 
-[Course Website](https://www.udemy.com/master-computer-vision-with-opencv-in-python/)
 
-## What I learnt from this course
+
+## What to learnt from this course
 
 - Key concepts of computer Vision & OpenCV.
 - Perform image manipulations such as transformations, cropping, blurring, thresholding, edge detection and cropping.
